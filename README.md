@@ -1,12 +1,25 @@
 ## Olá! eu sou Thomas Almeida
+👨‍💻 Sobre Mim: Tenho 26 anos e sou um entusiasta de tecnologia com foco no desenvolvimento de sistemas back-end . Meu foco principal está em Java, embora eu também tenha uma compreensão básica de front-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando transformar minha paixão pela programação em uma carreira sólida.
 
-Here are some ideas to get you started:
+💼 *Habilidades Técnicas (Hard Skills):
 
-- 🔭 Hoje trabalhando com javaOO
-- 🌱 Estudando java
-- 📱 (Contate- me no email: thomasprof21@gmail.com
-- 😄 Pronouns: ele/dele
-- 📚 Education: Cruzeiro do Sul
+🌐 Java: Tenho conhecimento em Java, uma linguagem versátil amplamente usada no desenvolvimento back-end.
+
+💻 Desenvolvimento Back-End: Estou me concentrando em criar servidores, APIs e sistemas back-end eficientes e robustos.
+
+🗄️ Banco de Dados: Estou aprendendo sobre bancos de dados relacionais e SQL para armazenar e gerenciar dados de forma eficaz.
+
+🖥️ Front-End. Básico: Tenho uma compreensão fundamental das tecnologias front-end., como HTML, CSS e Java Script.
+
+🤝 Habilidades Interpessoais (Soft Skills):
+
+🗣️ Comunicação: Sou capaz de comunicar minhas ideias e colaborar efetivamente em equipe.
+
+🤔 Pensamento Analítico: Abordo problemas com uma mente analítica e solucionadora.
+
+📚 Aprendizado Contínuo: Estou comprometido em aprender continuamente e me manter atualizado com as tendências da indústria.
+
+🤲 Trabalho em Equipe: Sou um membro de equipe confiável e estou disposto a compartilhar conhecimentos.
 
 <div align="center">
   <a href="https://github.com/ThomasAlmeidaOne">
